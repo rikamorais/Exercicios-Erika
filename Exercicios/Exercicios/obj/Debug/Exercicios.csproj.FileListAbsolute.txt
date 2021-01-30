@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.Form1.resources
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.Form2.resources
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.Properties.Resources.resources
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\User\source\repos\Exercicios-Erika\Exercicios\Exercicios\obj\Debug\Exercicios.pdb

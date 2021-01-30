@@ -1,7 +1,7 @@
 ﻿
 namespace Exercicios
 {
-    partial class Form1
+    partial class mediaNotas
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -114,7 +114,7 @@ namespace Exercicios
             this.txt4.Size = new System.Drawing.Size(100, 20);
             this.txt4.TabIndex = 8;
             // 
-            // Form1
+            // mediaNotas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -128,8 +128,8 @@ namespace Exercicios
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnMedia);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "mediaNotas";
+            this.Text = "Média das notas";
             this.ResumeLayout(false);
             this.PerformLayout();
 

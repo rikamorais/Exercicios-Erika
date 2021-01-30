@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Exercicios
 {
-    public partial class Form1 : Form
+    public partial class mediaNotas : Form
     {
-        public Form1()
+        public mediaNotas()
         {
             InitializeComponent();
         }
