@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.frmItema.resources
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.frmCalculadora.resources
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.Properties.Resources.resources
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\bin\Debug\Exercícios2.exe.config
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\bin\Debug\Exercícios2.exe
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\bin\Debug\Exercícios2.pdb
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.exe
+C:\Users\User\source\repos\Exercicios-Erika\Exercícios2\Exercícios2\obj\Debug\Exercícios2.pdb
